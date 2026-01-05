@@ -78,12 +78,6 @@ Once completed, it should generate:
 
 ---
 
-## Submitting to Kaggle
-
-Upload the generated `submissions.csv` on the Kaggle competition submission page.
-
----
-
 ## Notes
 
 * This repo is focused on reproducing the exact workflow used for my competition submission.
