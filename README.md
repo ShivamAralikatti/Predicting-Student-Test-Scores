@@ -12,7 +12,6 @@ Competition link: https://www.kaggle.com/competitions/playground-series-s6e1
 
 - **`datasets/`**  
   Contains the competition dataset files:
-  - `train.csv`
   - `test.csv`
   - `sample_submission.csv`
 
