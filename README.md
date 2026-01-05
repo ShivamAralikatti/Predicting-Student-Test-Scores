@@ -28,7 +28,7 @@ Competition link: https://www.kaggle.com/competitions/playground-series-s6e1
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Predicting-Student-Test-Scores.git
+git clone https://github.com/ShivamAralikatti/Predicting-Student-Test-Scores.git
 cd Predicting-Student-Test-Scores
 ````
 
